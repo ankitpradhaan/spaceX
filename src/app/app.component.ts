@@ -8,7 +8,7 @@ import { Inject } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'xt';
+  title = 'spaceX';
   start_launch_year = 2006;
   end_launch_year = (new Date()).getFullYear();
   launch_years = [];
